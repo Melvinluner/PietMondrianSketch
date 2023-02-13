@@ -19,7 +19,7 @@ function draw() {
   fill(200,0,0); // to make the rectangle in red
   rect(100,0,300,290);
   
- fill(200,140,0); // and to make the rectangle in yellow
+ fill(250,100,0); // and to make the rectangle in yellow
   rect(370,350,50,50);
 }
 
